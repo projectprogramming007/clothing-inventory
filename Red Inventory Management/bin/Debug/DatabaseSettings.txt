@@ -1,0 +1,2 @@
+D:\Semester 3\PRG\Sample prg\Red-Inventory-Management\Red software\Red Inventory Management\bin\Debug\
+Database
